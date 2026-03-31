@@ -1,0 +1,3 @@
+Neo4j is a graph database management system designed to store and query highly connected data using nodes, relationships, and properties instead of tables.
+It uses the Cypher query language to efficiently analyze relationships and patterns in data.
+Neo4j is widely used for knowledge graphs, fraud detection, recommendation engines, and network analysis.
