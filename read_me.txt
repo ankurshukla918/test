@@ -1,0 +1,1 @@
+This project is about neo4j knowledge graph creation 
