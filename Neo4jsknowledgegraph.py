@@ -88,3 +88,4 @@ rag = GraphRAG(llm=llm, retriever=vector_retriever)
 # 4. Run
 response = rag.search("How is precision medicine applied to Lupus?")
 print(response.answer)
+print("Ankur")
